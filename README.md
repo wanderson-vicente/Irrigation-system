@@ -1,6 +1,7 @@
-# Irrigation-system
+# Irrigation-system v 0.1
 ## Sistema de Irrigação Automatizado
 Este projeto é um sistema de irrigação automatizado que usa dois sensores de umidade para determinar quando irrigar o solo. Ele também registra o tempo total de irrigação.
+Código de estudo
 
 ### Componentes
 * Arduino (ou similar)
